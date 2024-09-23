@@ -1,6 +1,6 @@
 # Pet Shop Amigão
 
-Bem-vindo ao repositório do **Petshop Amigão**, um site estático criado como parte de uma atividade da faculdade Descomplica. O site promove os serviços de um petshop e fornece informações sobre cuidados para animais de estimação.
+Bem-vindo ao repositório do **Pet shop Amigão**, um site estático criado como parte de uma atividade da faculdade Descomplica. O site promove os serviços de um petshop e fornece informações sobre cuidados para animais de estimação.
 
 ## Tecnologias Utilizadas
 

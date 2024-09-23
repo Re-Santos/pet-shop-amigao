@@ -24,3 +24,6 @@ O projeto possui as seguintes seções:
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/seuusuario/petshop-amigao.git
+
+## Publicação
+O site está publicado no Surge.sh e pode ser acessado através do seguinte link: pet-shop-amigao.surge.sh
